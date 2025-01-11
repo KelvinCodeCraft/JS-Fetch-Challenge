@@ -1,0 +1,17 @@
+Project 1: Twitter Clone
+Below are some APIs to use to build a twitter clone. Check the demo for more. 
+USERS 
+https://jsonplaceholder.typicode.com/users 
+POSTS 
+https://jsonplaceholder.typicode.com/posts 
+ OR (https://jsonplaceholder.typicode.com/posts?userId=1) 
+COMMENTS 
+https://jsonplaceholder.typicode.com/comments 
+ OR (https://jsonplaceholder.typicode.com/comments?postId=1) 
+Task 
+Consume the users API and print all users by username on a select box (by default, display user with
+ID one) 
+On selecting a User Display the post that user has (by default, display user with ID 1) 
+On selecting a Post show all its comments. (by default, display comments for the user’s first post) 
+DEMO  
+https://twitter-signals-7iou.vercel.app/
